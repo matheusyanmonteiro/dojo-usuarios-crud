@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "42d2b467-ff88-46e3-90c3-65340928824a",
+      "name": "alguma coisa",
+      "email": "algumacoisa@email.com"
+    },
+    {
+      "id": "667f9514-7ae4-4ec9-860a-09b09b08b1c6",
+      "name": "alguma coisa",
+      "email": "algumacoisa@email.com"
+    },
+    {
+      "id": "bce021ab-459d-4c36-9e0b-2ed90869fdb0",
+      "name": "alguma coisa",
+      "email": "algumacoisa@email.com"
+    },
+    {
+      "id": "f40d9aec-d026-4843-8795-7110228be3ca",
+      "name": "afonso solano",
+      "email": "maia@example.com"
+    },
+    {
+      "id": "1fe0e718-557d-45e3-baac-ad1fa1d7ab83",
+      "name": "alguma coisa",
+      "email": "algumacoisa@email.com"
+    },
+    {
+      "id": "ca8a7a15-ac8f-40aa-8391-778004572692",
+      "name": "alguma coisa",
+      "email": "algumacoisa@email.com"
+    }
+  ]
+}
