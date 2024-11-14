@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "d8460088-6056-4263-ad7f-28b9f0a5692c",
+      "name": "chibanga",
+      "email": "chibanga@example.com"
+    },
+    {
+      "id": "3b6d971a-c957-4469-8544-cd3c2d848bd5",
+      "name": "maia2",
+      "email": "maia@example.com"
+    },
+    {
+      "id": "691ccea1-3849-400f-8bbf-e55b3848e8a4",
+      "name": "afonso solano",
+      "email": "maia@example.com"
+    }
+  ]
+}

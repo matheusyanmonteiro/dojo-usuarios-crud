@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "chibanga",
+      "email": "chibanga@example.com"
+    },
+    {
+      "id": "f2fd35dd-c03e-448a-822b-0f036d02d501",
+      "name": "chibanga",
+      "email": "chibanga@example.com"
+    }
+  ]
+}
