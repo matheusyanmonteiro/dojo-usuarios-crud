@@ -1,0 +1,14 @@
+{
+  "name": "dojo-usuarios-crud",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao treinamento básico de JavaScript com Node.js 20, focado no desenvolvimento de APIs backend! Neste curso, exploraremos como construir uma API simples e eficiente, sem o uso de frameworks de terceiros, para que você compreenda os conceitos fundamentais do Node.js e a arquitetura de APIs. ## Objetivo do Treinamento O principal objetivo é capacitar você a criar uma API que gerencie a jornada de um usuário, coletando informações básicas, como nome e email. Durante o treinamento, abordaremos tópicos essenciais para a construção de APIs robustas e escaláveis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
